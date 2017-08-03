@@ -2,7 +2,7 @@
 
 > 基于Vue2.0仿照今日头条的移动端项目
 
-源码地址：[toutiao_Vue2.0](https://github.com/Huahua-Chen/toutiao_Vue2.0)
+源码地址：[toutiao_Vue2.0](https://github.com/qinqiang888/vue.js_toutiao)
 
 预览地址：[toutiao_Vue2.0](https://huahua-chen.github.io/demos/toutiao)
 
