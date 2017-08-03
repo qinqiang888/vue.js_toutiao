@@ -54,7 +54,7 @@ export default {
   },
   methods: {
     github () {
-      window.open('https://github.com/Huahua-Chen/toutiao_Vue2.0')
+      window.open('https://github.com/qinqiang888/vue.js_toutiao')
     },
     close () {
       this.ifModal = false
