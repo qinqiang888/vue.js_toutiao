@@ -4,8 +4,6 @@
 
 源码地址：[toutiao_Vue2.0](https://github.com/qinqiang888/vue.js_toutiao)
 
-预览地址：[toutiao_Vue2.0](https://huahua-chen.github.io/demos/toutiao)
-
 ## 前言
 
 先占个坑位。  
@@ -25,16 +23,6 @@
 - 新闻的搜索
 - 待...
 
-## 效果
-![移动端](https://github.com/Huahua-Chen/images/blob/master/images_inBlog/toutiao_code.png?raw=true)
-
-移动端可以直接扫描，或者在chrome的device toolbard打开[传送门](https://huahua-chen.github.io/demos/toutiao)
-
-![entry](https://github.com/Huahua-Chen/images/blob/master/images_inBlog/toutiao_entry.gif?raw=true)
-
-![collect](https://github.com/Huahua-Chen/images/blob/master/images_inBlog/toutiao_collect.gif?raw=true)
-
-![search](https://github.com/Huahua-Chen/images/blob/master/images_inBlog/toutiao_search.gif?raw=true)
 
 ## 目录
 ```
