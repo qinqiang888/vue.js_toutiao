@@ -2,7 +2,7 @@
   "name": "toutiao",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "Huahua-Chen <492823811@qq.com>",
+  "author": "QQ <869489358@qq.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
