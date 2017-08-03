@@ -1,7 +1,7 @@
 <template>
   <div>
 		<div class="header home_header">
-			<span class="logo">今天头条</span>
+			<span class="logo">今日头条</span>
 			<router-link to="/search" tag="div" class="search">
 					<Icon type="ios-search" class="search_icon"></Icon>
 					<div class="search_input">搜索...</div>
